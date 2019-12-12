@@ -1,13 +1,35 @@
 body {
   padding-top: 5rem;
+
+
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
-}
+  
 
+
+
+}
 .lead {
 
 
   line-height:30px;
+}
+
+.image1 {
+  width: 50%;
+  height: 30%;
+}
+.image2 {
+  width: 50%;
+  height: 30%;
+}
+.image3 {
+  width: 50%;
+  height: 30%;
+}
+.image4 {
+  width: 50%;
+  height: 30%;
 }
