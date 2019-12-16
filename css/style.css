@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville|Dancing+Script|Rock+Salt&display=swap');
+
+h1 {
+  font-family: 'Baskervville', sans-serif;
+  color: #66ccff;
+  font-size: 100px;
+
+}
+.white_container {
+  background: white;
+  width: 100%;
+  margin:0%;
+  padding:0;
+
+}
+
+h2 {
+  color: #66ccff;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  font-size: 50px;
+
+}
+
+.blue_container {
+  background: #66ccff;
+  margin-top:15%;
+  margin-left:0;
+  margin-right:0;
+  padding:4em 0;
+  border-top-left-radius:40px;
+  transform: skewY(-2deg);
+  text-align: center;
+
+
+}
+
+
+.blue_container ul {
+  transform: skewY(2deg);
+}
+
+
+
+.paris {
+  width:50%;
+  border-radius: 0.5em;
+
+
+
+}
+
+.italy {
+  width:50%;
+  border-radius:0.5em;
+
+}
+
+.Scandanavia {
+  width:35%;
+  border-radius: 0.5em;
+  font-family: 'Montserrat', serif;
+
+
+}
+
+.paristext {
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+
+}
+
+.italytext {
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+
+}
+
+.scandanaviatext {
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin:10%;
+}
+
+.country, p  {
+  font-size: 100px;
+  color: white;
+  font-family: 'Baskervville', serif;
+
+
+}
+
+.worldpicture {
+  width:55%;
+  margin-top: 15%;
+  margin-left:15%;
+
+}
+
+.planepicture{
+  width:55%;
+  margin-top: 15%;
+}
+
+.bikepicture {
+  width:55%;
+  margin-top: 15%;
+
+}
+
+.hotelpicture {
+  width:55%;
+  margin-top: 15%;
+
+}
+
+.table {
+  text-align:center;
+  margin-top:5%;
+
+
+}
+}
+
+.footer {
+  margin-top: 50%;
+  padding: 20em;
+
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+
+}
+.beach {
+  width:100%;
+}
+
+.number{
+  font-size:45px;
+
+}
+
+}
