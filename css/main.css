@@ -64,9 +64,11 @@
 
 }
 .last_container {
-  background: linear-gradient(to bottom, #80dfff, #99ffbb);
+  background: linear-gradient(to bottom, #80dfff, white);
   max-width: 2000px;
   margin-top: 15%;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
 
 }
 .worldpicture{
